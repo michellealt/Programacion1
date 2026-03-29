@@ -40,4 +40,4 @@ return 0;
 
 }
 ```
-Camilo es tonto
+
