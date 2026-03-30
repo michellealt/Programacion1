@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Autor: Michelle
 int main (){ 
 int ninicial,nfinal,nincremento,i; //Declaracion de variables
 //Se pide los datos al usuario
